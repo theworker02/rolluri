@@ -24,6 +24,8 @@
     "uri",
     "validate",
     "cli",
-    "toolkit"
+    "toolkit",
+    "v1",
+    "stable"
   ]
 }
