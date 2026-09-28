@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/rolluri",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roll validation gates for uri inputs before they hit prod.",
+  "bin": {
+    "rolluri": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/rolluri.git"
+  },
+  "homepage": "https://theworker02.github.io/rolluri/",
+  "keywords": [
+    "roll",
+    "uri",
+    "validate",
+    "cli",
+    "toolkit"
+  ]
+}
